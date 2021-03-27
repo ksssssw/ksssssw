@@ -1,6 +1,6 @@
 ### Hi there, I'm SeokWon👋
 
-Hi, I'm SeokWon Kang who is interested in Develop from South Korea.
+Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 
 
 <!--
