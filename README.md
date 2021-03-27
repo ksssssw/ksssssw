@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm SeokWon👋
+
+Hi, I'm SeokWon Kang who is interested in Develop from South Korea.
+
 
 <!--
 **ksssssw/ksssssw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
