@@ -2,6 +2,7 @@
 
 Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 
+<br />
 
 ## 🌟Skills
 
@@ -30,14 +31,13 @@ Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
+<br />
 
 ### Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/rkdtjrdnjs1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdtjrdnjs1@gmail.com)](mailto:rkdtjrdnjs1@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/kssssssw-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.instagram.com/kssssssw/)
 
-<br />
 <br />
 
 <div align=center>
