@@ -4,7 +4,7 @@ Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 
 ### 🌟Skills
 
-## Languages:
+# Languages:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -14,7 +14,7 @@ Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 <br />
 <br />
 
-## Tools:
+# Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
@@ -22,6 +22,7 @@ Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
 ### Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/rkdtjrdnjs1@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdtjrdnjs1@gmail.com)](mailto:rkdtjrdnjs1@gmail.com)
