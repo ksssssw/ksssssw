@@ -7,7 +7,6 @@ Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkdtjrdnjs1@gmail.com)](mailto:rkdtjrdnjs1@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.instagram.com/kssssssw/)
 
-<br />
 
 ### Languages:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -16,6 +15,7 @@ Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<br />
 <br />
 
 ### Tools:
