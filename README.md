@@ -1,5 +1,4 @@
-### Hi there, I'm SeokWon👋 
-### [(Portfolio)](https://quixotic-mozzarella-784.notion.site/3be7fd7a85cd4772ba85b844207cd532)
+### Hi there, I'm SeokWon👋 [(Portfolio)](https://quixotic-mozzarella-784.notion.site/3be7fd7a85cd4772ba85b844207cd532)
 
 Hi, I'm SeokWon Kang who is interested in Clean Code from South Korea.
 
