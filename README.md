@@ -1,33 +1,63 @@
-  ### Hi, I'm SeokWon 👋
+  <div align="center">
 
-  Android Developer with experience building production-scale mobile applications.
-  Focused on multi-module architecture, Jetpack Compose, and design systems.
-  Also experienced in iOS (Swift / SwiftUI) and cross-platform development with KMP / CMP.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=180&section=header&text=SeokW
+  on%20Kang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Android%20Developer&descAlignY=65&
+  descSize=22" width="100%"/>
 
-  <br />
+  </div>
 
-  ## Tech Stack
+  <br/>
 
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-  ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&
-  logoColor=white)
-  ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-  ![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=flat-square&logo=swift&logoColor=white)
+  <p align="center">
+    Android Developer with experience building production-scale mobile applications.<br/>
+    Focused on multi-module architecture, Jetpack Compose, and design systems.<br/>
+    Also experienced in iOS (Swift / SwiftUI) and cross-platform development with KMP / CMP.
+  </p>
 
-  **Architecture** — Android App Architecture · Clean Architecture · Multi-module · Hilt · Koin · Coroutines /
-  Flow
+  <br/>
 
-  **Design** — Design System · Style Dictionary · Figma
+  ## 🛠 Tech Stack
 
-  **Tooling** — Gradle Kotlin DSL · Firebase · CI/CD
+  <p align="center">
+    <img
+  src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,figma,git,firebase&theme=dark&perline=6" />
+  </p>
 
-  <br />
+  <br/>
 
-  ## Contact
+  **Android** &nbsp;
+  `Jetpack Compose` `Material3` `Coroutines` `Flow` `Hilt` `Koin`
 
-  [![Gmail](https://img.shields.io/badge/rkdtjrdnjs1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=wh
-  ite)](mailto:rkdtjrdnjs1@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](h
-  ttps://www.linkedin.com/in/ksssssw)
+  **Architecture** &nbsp;
+  `Android App Architecture` `Clean Architecture` `Multi-module`
+
+  **Cross-platform** &nbsp;
+  `KMP` `CMP` `Swift` `SwiftUI`
+
+  **Design** &nbsp;
+  `Design System` `Style Dictionary` `Figma`
+
+  **Tooling** &nbsp;
+  `Gradle Kotlin DSL` `Firebase` `CI/CD`
+
+  <br/>
+
+  ## 📬 Contact
+
+  <p align="center">
+    <a href="mailto:rkdtjrdnjs1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/ksssssw">
+      <img
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </p>
+
+  <br/>
+
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=100&section=footer"
+  width="100%"/>
+  </div>
