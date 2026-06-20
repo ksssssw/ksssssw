@@ -1,60 +1,56 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=180&section=header&text=SeokW
-  on%20Kang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Android%20Developer&descAlignY=65&
-  descSize=22" width="100%"/>
-  </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=180&section=header&text=SeokWon%20Kang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Android%20Developer&descAlignY=65&descSize=22" width="100%"/>
+</div>
 
-  <br/>
+<br/>
 
-  <p align="center">
-    Android Developer with experience building production-scale mobile applications.<br/>
-    Focused on multi-module architecture, Jetpack Compose, and design systems.<br/>
-    Also experienced in iOS (Swift / SwiftUI) and cross-platform development with KMP / CMP.
-  </p>
+<p align="center">
+  Android Developer with experience building production-scale mobile applications.<br/>
+  Focused on multi-module architecture, Jetpack Compose, and design systems.<br/>
+  Also experienced in iOS (Swift / SwiftUI) and cross-platform development with KMP / CMP.
+</p>
 
-  <br/>
+<br/>
 
-  ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
-  <p align="center">
-    <img
-  src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,figma,git,firebase&theme=dark&perline=6" />
-  </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,figma,git,firebase&theme=dark&perline=6" />
+</p>
 
-  <br/>
+<br/>
 
-  **Android** &nbsp;
-  `Jetpack Compose` `Material3` `Coroutines` `Flow` `Hilt` `Koin`
+**Android** &nbsp;
+`Jetpack Compose` `Material3` `Coroutines` `Flow` `Hilt` `Koin`
 
-  **Architecture** &nbsp;
-  `Android App Architecture` `Clean Architecture` `Multi-module`
+**Architecture** &nbsp;
+`Android App Architecture` `Clean Architecture` `Multi-module`
 
-  **Cross-platform** &nbsp;
-  `KMP` `CMP` `Swift` `SwiftUI`
+**Cross-platform** &nbsp;
+`KMP` `CMP` `Swift` `SwiftUI`
 
-  **Design** &nbsp;
-  `Design System` `Style Dictionary` `Figma`
+**Design** &nbsp;
+`Design System` `Style Dictionary` `Figma`
 
-  **Tooling** &nbsp;
-  `Gradle Kotlin DSL` `Firebase` `CI/CD`
+**Tooling** &nbsp;
+`Gradle Kotlin DSL` `Firebase` `CI/CD`
 
-  <br/>
+<br/>
 
-  ## 📬 Contact
+## 📬 Contact
 
-  <p align="center">
-    <a href="mailto:rkdtjrdnjs1@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/ksssssw">
-      <img
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  </p>
+<p align="center">
+  <a href="mailto:rkdtjrdnjs1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ksssssw">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-  <br/>
+<br/>
 
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=100&section=footer"
-  width="100%"/>
-  </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=100&section=footer" width="100%"/>
+</div>
