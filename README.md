@@ -1,9 +1,6 @@
-  <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=180&section=header&text=SeokW
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=180&section=header&text=SeokW
   on%20Kang&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Android%20Developer&descAlignY=65&
   descSize=22" width="100%"/>
-
   </div>
 
   <br/>
@@ -58,6 +55,6 @@
   <br/>
 
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=100&section=footer"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=100&section=footer"
   width="100%"/>
   </div>
